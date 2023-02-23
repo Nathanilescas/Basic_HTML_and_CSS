@@ -1,0 +1,22 @@
+p {
+	color:blue;
+	font-family:arial;
+	font-size : 50px;
+}
+.font_1 {
+	background-color : black;
+	color : yellow;
+	font-size : large;
+}
+.font_2 {
+	background-color : darkblue;
+	color : white;
+	font-size : medium;
+}
+.HelloWorld {
+	background-color : red;
+	color : blue;
+	text-decoration : underline;
+	font-weight : bold;
+	font-size : small;
+}
